@@ -2,7 +2,7 @@ class Upmixd < Formula
   desc "Stereo-to-5.1 upmix daemon with live EQ and menu-bar panel"
   homepage "https://github.com/mzelem/upmixd"
   url "https://github.com/mzelem/upmixd/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "1a4be540d4865abceabb9efcfaeb50c48659c29899a10bfdf2408ad7eb198530"
+  sha256 "60fd044d64d87765e24d4aaffbbf737d6b2f5c23028c878004e5517a66305375"
   license "MIT"
 
   depends_on :macos
